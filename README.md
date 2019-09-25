@@ -1,2 +1,2 @@
 # Product-Designer
-Product Designer powered by jQuery.
+Product Designer powered by PHP and jQuery.
