@@ -1,7 +1,7 @@
 # Product-Designer
 Product Designer powered by PHP and jQuery.
 
-Features:
+Features:<br />
 Upload your own design.<br />
 Choose stock designs. <br />
 (You can add more stock designs, to add stock desigs simple copy and paste design to the assets/img/design_templates )<br />
